@@ -22,7 +22,7 @@
 <p>
   -About Me
   
-  - 🔭 I’m currently working in <strong>Huawei</strong></a> as a Software Engineer at SRE Team
+  - 🔭 I’m currently working at <strong>Huawei</strong></a> as a Software Engineer at SRE Team
   
   - 🤝 I’m available for freelancing.
   
