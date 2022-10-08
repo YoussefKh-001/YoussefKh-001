@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <a href="">
+  <p>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+      </p>
 </div>
 
 
@@ -20,7 +20,7 @@
 <br/>
 <br/>
 <p>
-  -About Me
+  <h3>About Me</h3>
   
   - 🔭 I’m currently working at <strong>Huawei</strong></a> as a Software Engineer at SRE Team
   
